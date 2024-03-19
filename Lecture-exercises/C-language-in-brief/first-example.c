@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 
-int main() {
+int first_example_function(void) {
     printf("%d\n", 3 + 4); // print 7
 
     // print Hello world! on two lines

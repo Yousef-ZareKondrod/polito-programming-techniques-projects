@@ -1,0 +1,11 @@
+int first_example_function(void);
+int second_example_function(void);
+int third_example_function(void );
+int forth_example_function(void );
+int visibility_of_variables_example_function();
+int cast_example_function();
+int cast_example_2_function();
+int input_output_of_characters_example_function();
+int input_output_of_strings_example_function();
+int formatted_input_output_example_function();
+int function_example_function();

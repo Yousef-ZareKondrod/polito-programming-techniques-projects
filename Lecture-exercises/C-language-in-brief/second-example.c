@@ -6,7 +6,8 @@
  that skips the 13th floor. */
 #include <stdio.h>
 
-int main (void) {
+
+int second_example_function (void) {
     // declare/define variables
     int floor,
             actualFloor;
