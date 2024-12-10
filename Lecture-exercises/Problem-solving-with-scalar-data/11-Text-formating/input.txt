@@ -1,0 +1,12 @@
+Programming languages are
+used to create software
+applications, websites,
+and other types of programs.
+There are many different
+programming languages
+such as C, Java, Python,
+and JavaScript.
+Each language has its
+own syntax and rules
+that developers must follow
+to write correct code.

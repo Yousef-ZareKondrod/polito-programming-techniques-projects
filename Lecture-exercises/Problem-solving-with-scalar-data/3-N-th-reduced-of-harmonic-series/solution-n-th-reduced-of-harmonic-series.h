@@ -1,0 +1,9 @@
+//
+// Created by Lenovo on 3/20/2024.
+//
+
+#ifndef POLITO_PROGRAMMING_TECHNIQUES_PROJECTS_SOLUTION_H
+#define POLITO_PROGRAMMING_TECHNIQUES_PROJECTS_SOLUTION_H
+
+#endif //POLITO_PROGRAMMING_TECHNIQUES_PROJECTS_SOLUTION_H
+int solution_n_th_reduced_of_harmonic_series_function(void );
