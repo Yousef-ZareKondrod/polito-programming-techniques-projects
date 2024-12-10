@@ -40,3 +40,5 @@ add_executable(Visualization-of-a-parabola Lecture-exercises/Problem-solving-wit
 add_executable(Text-formating Lecture-exercises/Problem-solving-with-scalar-data/11-Text-formating/Solution-of-text-formating.c)
 add_executable(Monotonicity-of-a-sequence Lecture-exercises/Problem-solving-with-scalar-data/12-Monotonicity-of-a-sequence/Solution-of-monotonicity-of-a-sequence.c)
 add_executable(Verify-alphabetical-order Lecture-exercises/Problem-solving-with-scalar-data/12-Verify-alphabetical-order/Solution-of-verify-alphabetical-order.c)
+
+add_executable(L00_Ex01 Labs/Lab00/L00_Ex01.c Labs/Lab00/L00_Ex01.h)
